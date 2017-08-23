@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#slider-container {
+  text-align: center;
+}
+
+.outer-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+html, body{
+  height: 100%;
+}
